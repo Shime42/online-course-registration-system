@@ -1,2 +1,23 @@
-# online-course-registration-system
-Online Course Registration System is Web-based registration software that helps you to register courses online. It is ideal for schools, educational camps, corporate training programs, and online training programs. It also provides time to time current status information related to courses. 
+1. Download and Unzip the file on your local system.
+2. Copy onlinecourse and  Put this file inside the root directory
+3. Database Configuration
+
+Database Configuration
+
+Open PHPMyAdmin
+Create Database onlinecourse
+Import database onlinecourse.sql (available inside the zip package)
+Open Your browser put inside browser “http://localhost/onlinecourse”
+
+****Login Details for admin****
+
+Username: admin
+
+Password: Test@123
+
+****Login Details for Student****
+
+Reg No.:10806121
+
+Password: Test@123
+Student Pincode for enroll Course Student: 822894
